@@ -1,0 +1,28 @@
+<svg style="margin:10px auto" width ="200" height="120" viewBox="0 -15 200 115" fill="none" xmlns="http://www.w3.org/2000/svg"> 
+                <!--x-axis, y-axix-->     
+                <path d="M30 50 H170 M100 110 V100 -10 L93 -2 M100 -10 L107 -2 " stroke="gray" stroke-width="1"></path>  
+                <path d="M100 -10 L93 -2 M100 -10 L107 -2 " stroke="gray" stroke-width="2"></path>         
+                
+                <!--background circle--> 
+                <circle cx="100" cy="50" r="50" fill="Green" opacity=".45" />
+
+                <!--the yellow letter G--> 
+                <path class="letterG" d="M141.57 26 A48 48 0 1 0 141.57 74 h-10" stroke="yellow" stroke-width="1.5"></path>
+                
+                <!--diagonal bar and the letter Y--> 
+                <path class="diagbar" d="M82 90 h4 L118 10 h-4 z" stroke="Black"  fill="Black"></path>
+                <path class="y-line" d="M106 30 L98 10" stroke="Black" stroke-width="1"></path>
+                
+                <!--less than and greater than--> 
+                <path class="lessthan" d="M78 75 h8 L66 50 L86 25 h-8 L58 50 z" stroke="blue" fill="blue"></path>
+                <path class="greaterthan" d="M114 75 h8 L142 50 L122 25 h-8 L134 50 z" stroke="blue" fill="blue"></path>
+                
+                <!--coils and terminal circles--> 
+                <path class="coil left" d="M45 30 L82 30 C84 31.5 84 33.5 78 35 M70 35 C64 36.5 64 37.5 66 40 h8 C76 41.5 76 43.5 70 45 M62 45 h-4 C52 47 52 53 58 55 h16 C76 56.5 76 57.5 74 60 M66 60 C64 61.5 64 63.5 70 65 h8 C84 66.5 84 68.5 82 70 M74 70 L45 70" stroke="red" stroke-width="1"></path>
+                <circle cx="43.5" cy="30" r="1.5" stroke="red" stroke-width=".8" />
+                <circle cx="43.5" cy="70" r="1.5" stroke="red" stroke-width=".8" />
+                <path class="coil right" d="M155 30 L126 30 M118 30 C116 31.5 116 33.5 122 35 h8 C 136 36.5 136 37.5 134 40 M126 40 C124 41.5 124 43.5 130 45 h12 C148 47 148 53 142 55 h-4 M130 55 C124 56.5 124 57.5 126 60 h8 C136 61.5 136 63.5 130 65 M122 65 C116 66.5 116 68.5 118 70 L155 70" stroke="red" stroke-width="1"></path>
+                <circle cx="156.5" cy="30" r="1.5" stroke="red" stroke-width=".8" />
+                <circle cx="156.5" cy="70" r="1.5" stroke="red" stroke-width=".8" />
+               
+            </svg> 
